@@ -1,6 +1,6 @@
-﻿(function () {
+(function () {
     'use strict';
-    angular.module('app.core').directive('nqDisabled', nqDisabled);
+    angular.module('ngQuantum').directive('nqDisabled', nqDisabled);
 
     nqDisabled.$inject = [];
 

@@ -13,10 +13,11 @@ Clone the project and update your scripts section
 
 ## Usage
 
+
 Add `nq-disabled` inside the select element and set its value either to `true` or `false`. true to disable the element, false to enable the element.
 
 ```
 <select data-nq-select data-nq-disabled="true" ng-model="$parent.MyModel" .....
 ```
 
-The element must have `ng-model` 
+The element must have `ng-model` for `nqDisable` to work.
