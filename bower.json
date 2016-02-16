@@ -1,0 +1,25 @@
+{
+  "name": "nqDisable",
+  "homepage": "https://github.com/Spharah/nqDisable",
+  "authors": [
+    "Spharah"
+  ],
+  "description": "Custom directive to disable QuantumUI nqSelect",
+  "main": "nqDisabled.directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "nqDisable",
+    "QuantumUI",
+    "nqSelect"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
